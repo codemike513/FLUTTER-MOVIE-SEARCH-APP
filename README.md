@@ -9,24 +9,27 @@ A Movie Search Application built with Flutter.
 
   - [Getting Started](#getting-started)
   - [Project Info](#project-info)
+  - [## How to Run](#how-to-run)
   - [Project Output](#project-output)
   - [Technology Used](#technology-used)
   - [Get Help](#get-help)
-  - 
+
+
 ## Getting Started
 This project is a beginner-friendly application for searching Movies.
 
 Clone the repository and use it in your local system
 ```console
-git clone 
+git clone https://github.com/codemike513/FLUTTER-MOVIE-SEARCH-APP.git
 ```
-
 For this project, Flutter should be installed in your system.
 If you haven't installed Flutter, just check out this [official documentation](https://flutter.dev/docs/get-started/install) and get started.
+
 ---
+
 ## Project Info
 This Project basically uses an API to scrap data for various Movies.
-In this Project **[Lottie Animations]**(https://lottiefiles.com/) are used and **[OMDb API]**(http://www.omdbapi.com/) is used.
+In this Project **[Lottie Animations](https://lottiefiles.com/)** are used and **[OMDb API](http://www.omdbapi.com/)** is used.
 
 You can get the API KEY by just entering your E-Mail.
 
@@ -36,17 +39,18 @@ You can get the API KEY by just entering your E-Mail.
 
 
 Change the API_KEY in the [movieService](./lib/services/movieService.dart) file to your own API_KEY.
+
 ---
 
 ## How to Run
   - Clone the Repository.
-  - Change the Directory to specified folder
+  - Change the Directory to specified folder.
   
   ```console
-  cd 
+  cd FLUTTER-MOVIE-SEARCH-APP
   ```
   
-  - Now start the Emulator and run the command
+  - Now start the Emulator and run the command in the terminal.
   
   ```console
   flutter run
