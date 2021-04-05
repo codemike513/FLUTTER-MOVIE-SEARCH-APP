@@ -60,13 +60,13 @@ Change the API_KEY in the [movieService](./lib/services/movieService.dart) file 
 
 ## Project Output
 
-![](./1.png=500x300)
+![](./1.png)
 
 
-![](./2.png=500x300)
+![](./2.png)
 
 
-![](./3.png=500x300)
+![](./3.png)
 
 ---
 ## Technology Used
