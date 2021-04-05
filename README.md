@@ -9,7 +9,7 @@ A Movie Search Application built with Flutter.
 
   - [Getting Started](#getting-started)
   - [Project Info](#project-info)
-  - [## How to Run](#how-to-run)
+  - [How to Run](#how-to-run)
   - [Project Output](#project-output)
   - [Technology Used](#technology-used)
   - [Get Help](#get-help)
@@ -60,13 +60,13 @@ Change the API_KEY in the [movieService](./lib/services/movieService.dart) file 
 
 ## Project Output
 
-![](./1.png)
+![](./1.png=500x300)
 
 
-![](./2.png)
+![](./2.png=500x300)
 
 
-![](./3.png)
+![](./3.png=500x300)
 
 ---
 ## Technology Used
@@ -75,4 +75,4 @@ Change the API_KEY in the [movieService](./lib/services/movieService.dart) file 
 
 ## Get Help
 - Contact me at pesswani.mihir@gmail.com
-- If appropriate, [open an issue](https://github.com/this/project/issues) on GitHub
+- If appropriate, [open an issue](https://github.com/codemike513/FLUTTER-MOVIE-SEARCH-APP/issues) on GitHub
