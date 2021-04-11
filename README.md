@@ -18,6 +18,8 @@ A Movie Search Application built with Flutter.
 ## Getting Started
 This project is a beginner-friendly application for searching Movies.
 
+You can get an idea by seeing the web version of [MOVIES APP](https://movie-search-app-6cf9f.web.app/#/).
+
 Clone the repository and use it in your local system
 ```console
 git clone https://github.com/codemike513/FLUTTER-MOVIE-SEARCH-APP.git
